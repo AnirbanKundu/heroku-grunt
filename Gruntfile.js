@@ -442,8 +442,10 @@ module.exports = function (grunt) {
   ]);
 
   // change the tasks in the list to your production tasks
-grunt.registerTask('heroku',
-    ['compass:dist', 'autoprefixer', 'imagemin']);
+  /*
+  grunt.registerTask('heroku',
+      ['compass:dist', 'autoprefixer', 'imagemin']);
+  */
 
   grunt.registerTask('default', [
     /*'newer:jshint',
