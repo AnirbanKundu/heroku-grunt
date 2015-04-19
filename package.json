@@ -1,5 +1,5 @@
 {
-  "name": "angulartemp1",
+  "name": "heroku-grunt",
   "version": "0.0.0",
   "main": "app.js",
   "scripts": {
