@@ -4,7 +4,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "postinstall": "bower install && grunt heroku"
+    "postinstall": "bower install && grunt build"
   },
   "dependencies": {
     "express": "^4.12.3"
