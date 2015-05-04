@@ -1,0 +1,974 @@
+{
+    "ALLPROJECTS": [
+        {
+            "date": "15-MAY-10", 
+            "entries": 5, 
+            "project": "11BetaHSD1"
+        }, 
+        {
+            "date": "15-MAY-10", 
+            "entries": 16, 
+            "project": "ACPS"
+        }, 
+        {
+            "date": "25-FEB-11", 
+            "entries": 5, 
+            "project": "ACVR2B"
+        }, 
+        {
+            "date": "13-MAY-10", 
+            "entries": 7, 
+            "project": "ADAM"
+        }, 
+        {
+            "date": "13-JAN-15", 
+            "entries": 1, 
+            "project": "AGTR1"
+        }, 
+        {
+            "date": "30-NOV-09", 
+            "entries": 1, 
+            "project": "AKT2"
+        }, 
+        {
+            "date": "29-SEP-09", 
+            "entries": 17, 
+            "project": "AMCase"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 16, 
+            "project": "AR"
+        }, 
+        {
+            "date": "07-OCT-13", 
+            "entries": 1, 
+            "project": "ATA-036"
+        }, 
+        {
+            "date": "15-MAY-10", 
+            "entries": 84, 
+            "project": "AcetylCoACarboxylase"
+        }, 
+        {
+            "date": "09-APR-13", 
+            "entries": 208, 
+            "project": "AmpC"
+        }, 
+        {
+            "date": "21-DEC-09", 
+            "entries": 2, 
+            "project": "AnthraxLethalFactor"
+        }, 
+        {
+            "date": "17-AUG-09", 
+            "entries": 1, 
+            "project": "Arginase2"
+        }, 
+        {
+            "date": "13-MAY-10", 
+            "entries": 102, 
+            "project": "AurA"
+        }, 
+        {
+            "date": "23-MAR-15", 
+            "entries": 2229, 
+            "project": "BACE"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 5, 
+            "project": "BRAF"
+        }, 
+        {
+            "date": "05-JUN-14", 
+            "entries": 106, 
+            "project": "BTK"
+        }, 
+        {
+            "date": "28-APR-11", 
+            "entries": 45, 
+            "project": "BetaLactamase"
+        }, 
+        {
+            "date": "13-NOV-10", 
+            "entries": 210, 
+            "project": "CDK2"
+        }, 
+        {
+            "date": "13-MAY-10", 
+            "entries": 10, 
+            "project": "CDK5"
+        }, 
+        {
+            "date": "08-JUN-11", 
+            "entries": 1, 
+            "project": "CELA1"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 1, 
+            "project": "CFB"
+        }, 
+        {
+            "date": "14-DEC-13", 
+            "entries": 12, 
+            "project": "CGRP-R"
+        }, 
+        {
+            "date": "13-NOV-10", 
+            "entries": 353, 
+            "project": "CHK1"
+        }, 
+        {
+            "date": "04-FEB-10", 
+            "entries": 6, 
+            "project": "COMT"
+        }, 
+        {
+            "date": "29-JAN-15", 
+            "entries": 1, 
+            "project": "CXCR4_Peptide"
+        }, 
+        {
+            "date": "04-MAR-15", 
+            "entries": 1, 
+            "project": "CaMK2b"
+        }, 
+        {
+            "date": "19-FEB-15", 
+            "entries": 1, 
+            "project": "CaMK2d"
+        }, 
+        {
+            "date": "04-JAN-10", 
+            "entries": 4, 
+            "project": "Caspase1"
+        }, 
+        {
+            "date": "04-JAN-10", 
+            "entries": 9, 
+            "project": "Caspase3"
+        }, 
+        {
+            "date": "20-DEC-12", 
+            "entries": 3, 
+            "project": "Caspase6"
+        }, 
+        {
+            "date": "29-SEP-09", 
+            "entries": 5, 
+            "project": "CatC"
+        }, 
+        {
+            "date": "13-OCT-14", 
+            "entries": 16, 
+            "project": "CatD"
+        }, 
+        {
+            "date": "17-JUL-14", 
+            "entries": 59, 
+            "project": "CatK"
+        }, 
+        {
+            "date": "10-JUN-10", 
+            "entries": 16, 
+            "project": "CatS"
+        }, 
+        {
+            "date": "04-DEC-09", 
+            "entries": 22, 
+            "project": "Chitotriosidase"
+        }, 
+        {
+            "date": "08-JAN-15", 
+            "entries": 6, 
+            "project": "CoaB"
+        }, 
+        {
+            "date": "11-SEP-09", 
+            "entries": 2, 
+            "project": "DAAO"
+        }, 
+        {
+            "date": "25-NOV-13", 
+            "entries": 187, 
+            "project": "DPP4"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 34, 
+            "project": "ERa"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 11, 
+            "project": "ERb"
+        }, 
+        {
+            "date": "11-SEP-09", 
+            "entries": 1, 
+            "project": "EphA4"
+        }, 
+        {
+            "date": "26-NOV-13", 
+            "entries": 634, 
+            "project": "Erk2"
+        }, 
+        {
+            "date": "22-APR-10", 
+            "entries": 1, 
+            "project": "FABP3"
+        }, 
+        {
+            "date": "16-MAY-10", 
+            "entries": 19, 
+            "project": "FABP4"
+        }, 
+        {
+            "date": "22-APR-10", 
+            "entries": 1, 
+            "project": "FABP5"
+        }, 
+        {
+            "date": "09-DEC-09", 
+            "entries": 3, 
+            "project": "FK506BP"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 4, 
+            "project": "FLAP"
+        }, 
+        {
+            "date": "11-FEB-09", 
+            "entries": 17, 
+            "project": "FabF"
+        }, 
+        {
+            "date": "13-OCT-13", 
+            "entries": 185, 
+            "project": "FactorIXa"
+        }, 
+        {
+            "date": "24-MAR-15", 
+            "entries": 93, 
+            "project": "FactorXIIa"
+        }, 
+        {
+            "date": "20-MAR-15", 
+            "entries": 258, 
+            "project": "FactorXIa"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 6, 
+            "project": "FattyAcidBP"
+        }, 
+        {
+            "date": "23-AUG-10", 
+            "entries": 7, 
+            "project": "FtsZ"
+        }, 
+        {
+            "date": "26-MAR-15", 
+            "entries": 1, 
+            "project": "GBA"
+        }, 
+        {
+            "date": "09-DEC-09", 
+            "entries": 49, 
+            "project": "GK"
+        }, 
+        {
+            "date": "03-JUL-14", 
+            "entries": 5, 
+            "project": "GPCR"
+        }, 
+        {
+            "date": "24-NOV-14", 
+            "entries": 1, 
+            "project": "GPR40"
+        }, 
+        {
+            "date": "05-NOV-10", 
+            "entries": 5, 
+            "project": "GR"
+        }, 
+        {
+            "date": "25-SEP-14", 
+            "entries": 2, 
+            "project": "Gastricsin"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 5, 
+            "project": "GluR1"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 79, 
+            "project": "GluR2"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 11, 
+            "project": "GluR2flop"
+        }, 
+        {
+            "date": "30-NOV-09", 
+            "entries": 4, 
+            "project": "GlycogenPhosphorylase"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 5, 
+            "project": "Granzyme"
+        }, 
+        {
+            "date": "13-JUN-12", 
+            "entries": 1, 
+            "project": "Grk4"
+        }, 
+        {
+            "date": "03-OCT-11", 
+            "entries": 11, 
+            "project": "GyrB"
+        }, 
+        {
+            "date": "12-JUN-12", 
+            "entries": 5, 
+            "project": "HCV-NS3"
+        }, 
+        {
+            "date": "27-MAR-15", 
+            "entries": 115, 
+            "project": "HDAC2"
+        }, 
+        {
+            "date": "18-JUL-11", 
+            "entries": 1, 
+            "project": "HDMX"
+        }, 
+        {
+            "date": "07-OCT-13", 
+            "entries": 364, 
+            "project": "HIVProtease"
+        }, 
+        {
+            "date": "21-JAN-15", 
+            "entries": 245, 
+            "project": "HIVRT"
+        }, 
+        {
+            "date": "14-FEB-14", 
+            "entries": 82, 
+            "project": "HIV_IN"
+        }, 
+        {
+            "date": "21-JUL-11", 
+            "entries": 3, 
+            "project": "HSA1"
+        }, 
+        {
+            "date": "29-JUL-11", 
+            "entries": 4, 
+            "project": "HSA7"
+        }, 
+        {
+            "date": "13-MAR-15", 
+            "entries": 48, 
+            "project": "IDH1"
+        }, 
+        {
+            "date": "05-OCT-14", 
+            "entries": 2, 
+            "project": "IL10-Antibody"
+        }, 
+        {
+            "date": "16-MAY-10", 
+            "entries": 3, 
+            "project": "IL23"
+        }, 
+        {
+            "date": "21-NOV-13", 
+            "entries": 3, 
+            "project": "IMP-1"
+        }, 
+        {
+            "date": "06-DEC-09", 
+            "entries": 4, 
+            "project": "INSR"
+        }, 
+        {
+            "date": "06-MAY-14", 
+            "entries": 63, 
+            "project": "IRAK4"
+        }, 
+        {
+            "date": "23-JUN-14", 
+            "entries": 2, 
+            "project": "IRED"
+        }, 
+        {
+            "date": "08-JUL-14", 
+            "entries": 2, 
+            "project": "Insulin"
+        }, 
+        {
+            "date": "29-MAY-09", 
+            "entries": 5, 
+            "project": "JAK2"
+        }, 
+        {
+            "date": "30-JUN-11", 
+            "entries": 12, 
+            "project": "JAK3"
+        }, 
+        {
+            "date": "09-SEP-11", 
+            "entries": 2, 
+            "project": "JNK1"
+        }, 
+        {
+            "date": "02-SEP-11", 
+            "entries": 4, 
+            "project": "JNK2"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 9, 
+            "project": "JNK3"
+        }, 
+        {
+            "date": "23-APR-14", 
+            "entries": 134, 
+            "project": "Jak1"
+        }, 
+        {
+            "date": "03-DEC-09", 
+            "entries": 9, 
+            "project": "KAT-1"
+        }, 
+        {
+            "date": "27-FEB-15", 
+            "entries": 90, 
+            "project": "KEAP1"
+        }, 
+        {
+            "date": "19-FEB-11", 
+            "entries": 7, 
+            "project": "KHK"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 5, 
+            "project": "KIT"
+        }, 
+        {
+            "date": "16-FEB-13", 
+            "entries": 38, 
+            "project": "KPC2"
+        }, 
+        {
+            "date": "05-JAN-11", 
+            "entries": 20, 
+            "project": "KSP"
+        }, 
+        {
+            "date": "27-MAR-15", 
+            "entries": 7, 
+            "project": "Kallikrein"
+        }, 
+        {
+            "date": "09-DEC-09", 
+            "entries": 35, 
+            "project": "Kinesin"
+        }, 
+        {
+            "date": "30-NOV-09", 
+            "entries": 3, 
+            "project": "LCK"
+        }, 
+        {
+            "date": "11-FEB-14", 
+            "entries": 1, 
+            "project": "LRP5"
+        }, 
+        {
+            "date": "19-DEC-13", 
+            "entries": 5, 
+            "project": "LRP6"
+        }, 
+        {
+            "date": "09-NOV-12", 
+            "entries": 126, 
+            "project": "LXRa"
+        }, 
+        {
+            "date": "28-MAR-13", 
+            "entries": 23, 
+            "project": "LXRb"
+        }, 
+        {
+            "date": "22-JUN-11", 
+            "entries": 16, 
+            "project": "LpxC"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 28, 
+            "project": "MAPKAPK2"
+        }, 
+        {
+            "date": "15-MAY-10", 
+            "entries": 36, 
+            "project": "MARK2"
+        }, 
+        {
+            "date": "21-DEC-13", 
+            "entries": 133, 
+            "project": "MDM2"
+        }, 
+        {
+            "date": "17-JAN-12", 
+            "entries": 18, 
+            "project": "MET"
+        }, 
+        {
+            "date": "03-DEC-09", 
+            "entries": 7, 
+            "project": "MMP13"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 11, 
+            "project": "MalicEnzyme1"
+        }, 
+        {
+            "date": "13-MAY-14", 
+            "entries": 2, 
+            "project": "MnaA"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 10, 
+            "project": "MonophosphateDehydrogenase"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 1, 
+            "project": "MurF"
+        }, 
+        {
+            "date": "21-MAR-15", 
+            "entries": 53, 
+            "project": "NDM1"
+        }, 
+        {
+            "date": "07-MAR-15", 
+            "entries": 30, 
+            "project": "NPRA"
+        }, 
+        {
+            "date": "29-AUG-12", 
+            "entries": 4, 
+            "project": "NPRC"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 1, 
+            "project": "NR1"
+        }, 
+        {
+            "date": "10-JUN-10", 
+            "entries": 2, 
+            "project": "NR2A"
+        }, 
+        {
+            "date": "17-AUG-12", 
+            "entries": 315, 
+            "project": "NS5B"
+        }, 
+        {
+            "date": "22-DEC-14", 
+            "entries": 115, 
+            "project": "NTRK1"
+        }, 
+        {
+            "date": "25-JUL-11", 
+            "entries": 4, 
+            "project": "OGA"
+        }, 
+        {
+            "date": "06-DEC-11", 
+            "entries": 21, 
+            "project": "Oxa40"
+        }, 
+        {
+            "date": "29-JAN-15", 
+            "entries": 2, 
+            "project": "P2Y1"
+        }, 
+        {
+            "date": "19-JUL-12", 
+            "entries": 16, 
+            "project": "P4503A4"
+        }, 
+        {
+            "date": "26-MAR-15", 
+            "entries": 108, 
+            "project": "P4508B1_1"
+        }, 
+        {
+            "date": "29-MAR-15", 
+            "entries": 8, 
+            "project": "P4508B1_2"
+        }, 
+        {
+            "date": "01-APR-11", 
+            "entries": 3, 
+            "project": "PARP-1"
+        }, 
+        {
+            "date": "27-MAR-15", 
+            "entries": 46, 
+            "project": "PCSK9"
+        }, 
+        {
+            "date": "23-MAR-15", 
+            "entries": 7, 
+            "project": "PCSK9_PPI"
+        }, 
+        {
+            "date": "09-SEP-10", 
+            "entries": 25, 
+            "project": "PDE"
+        }, 
+        {
+            "date": "04-NOV-13", 
+            "entries": 212, 
+            "project": "PDE10A"
+        }, 
+        {
+            "date": "11-FEB-15", 
+            "entries": 130, 
+            "project": "PDE2"
+        }, 
+        {
+            "date": "23-DEC-09", 
+            "entries": 2, 
+            "project": "PDE3"
+        }, 
+        {
+            "date": "15-SEP-10", 
+            "entries": 17, 
+            "project": "PDE9"
+        }, 
+        {
+            "date": "11-MAY-10", 
+            "entries": 4, 
+            "project": "PDE9A"
+        }, 
+        {
+            "date": "01-FEB-11", 
+            "entries": 42, 
+            "project": "PDPK1"
+        }, 
+        {
+            "date": "20-MAR-15", 
+            "entries": 163, 
+            "project": "PFV_IN"
+        }, 
+        {
+            "date": "24-SEP-14", 
+            "entries": 6, 
+            "project": "PI3Ka"
+        }, 
+        {
+            "date": "01-MAR-15", 
+            "entries": 27, 
+            "project": "PI3Kd"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 43, 
+            "project": "PIM1"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 6, 
+            "project": "PIN1"
+        }, 
+        {
+            "date": "19-JAN-12", 
+            "entries": 69, 
+            "project": "PKCi"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 5, 
+            "project": "PKCt"
+        }, 
+        {
+            "date": "12-SEP-13", 
+            "entries": 2, 
+            "project": "PKG1"
+        }, 
+        {
+            "date": "30-NOV-09", 
+            "entries": 2, 
+            "project": "PPARa"
+        }, 
+        {
+            "date": "17-OCT-14", 
+            "entries": 34, 
+            "project": "PPARg"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 20, 
+            "project": "PR"
+        }, 
+        {
+            "date": "04-DEC-09", 
+            "entries": 23, 
+            "project": "PTP1B"
+        }, 
+        {
+            "date": "24-JAN-14", 
+            "entries": 17, 
+            "project": "PXR"
+        }, 
+        {
+            "date": "03-DEC-09", 
+            "entries": 1, 
+            "project": "PeptideDeformylase"
+        }, 
+        {
+            "date": "14-NOV-12", 
+            "entries": 1, 
+            "project": "Plasmepsin2"
+        }, 
+        {
+            "date": "21-APR-10", 
+            "entries": 1, 
+            "project": "PrCP"
+        }, 
+        {
+            "date": "13-MAR-15", 
+            "entries": 7, 
+            "project": "ProlyHydroxylase2-HIF"
+        }, 
+        {
+            "date": "20-DEC-09", 
+            "entries": 3, 
+            "project": "Prostasin"
+        }, 
+        {
+            "date": "05-JAN-11", 
+            "entries": 2, 
+            "project": "RNR2"
+        }, 
+        {
+            "date": "06-JAN-10", 
+            "entries": 28, 
+            "project": "RNaseH"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 2, 
+            "project": "RORa"
+        }, 
+        {
+            "date": "15-DEC-14", 
+            "entries": 20, 
+            "project": "RORg_Allosteric"
+        }, 
+        {
+            "date": "24-FEB-15", 
+            "entries": 23, 
+            "project": "RORg_Orthosteric"
+        }, 
+        {
+            "date": "02-DEC-09", 
+            "entries": 52, 
+            "project": "RSK3"
+        }, 
+        {
+            "date": "27-SEP-12", 
+            "entries": 236, 
+            "project": "Renin"
+        }, 
+        {
+            "date": "23-JAN-15", 
+            "entries": 5, 
+            "project": "RiboSW_FMN"
+        }, 
+        {
+            "date": "21-DEC-09", 
+            "entries": 1, 
+            "project": "SIV_integrase"
+        }, 
+        {
+            "date": "08-JUN-10", 
+            "entries": 2, 
+            "project": "SRC"
+        }, 
+        {
+            "date": "19-MAR-15", 
+            "entries": 5, 
+            "project": "STING"
+        }, 
+        {
+            "date": "27-MAY-11", 
+            "entries": 1, 
+            "project": "STK33"
+        }, 
+        {
+            "date": "02-DEC-13", 
+            "entries": 159, 
+            "project": "SYK"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 5, 
+            "project": "SolubleEpoxideHydrolase"
+        }, 
+        {
+            "date": "20-FEB-15", 
+            "entries": 23, 
+            "project": "Sortilin"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 5, 
+            "project": "Stromelysin"
+        }, 
+        {
+            "date": "04-JUN-10", 
+            "entries": 700, 
+            "project": "TACE"
+        }, 
+        {
+            "date": "30-OCT-12", 
+            "entries": 2, 
+            "project": "TAK1"
+        }, 
+        {
+            "date": "01-OCT-13", 
+            "entries": 1, 
+            "project": "TNF-alpha"
+        }, 
+        {
+            "date": "20-MAR-15", 
+            "entries": 2, 
+            "project": "TPA"
+        }, 
+        {
+            "date": "17-MAR-15", 
+            "entries": 122, 
+            "project": "Thrombin"
+        }, 
+        {
+            "date": "25-MAR-15", 
+            "entries": 136, 
+            "project": "TrkA"
+        }, 
+        {
+            "date": "22-FEB-15", 
+            "entries": 8, 
+            "project": "Trypsin"
+        }, 
+        {
+            "date": "03-JAN-13", 
+            "entries": 5, 
+            "project": "Tyk2"
+        }, 
+        {
+            "date": "13-MAY-10", 
+            "entries": 3, 
+            "project": "UBCH5C"
+        }, 
+        {
+            "date": "06-MAY-10", 
+            "entries": 2, 
+            "project": "USP7"
+        }, 
+        {
+            "date": "06-MAY-10", 
+            "entries": 1, 
+            "project": "USP8"
+        }, 
+        {
+            "date": "11-SEP-09", 
+            "entries": 2, 
+            "project": "VDR"
+        }, 
+        {
+            "date": "24-MAR-15", 
+            "entries": 125, 
+            "project": "VIM1"
+        }, 
+        {
+            "date": "17-DEC-14", 
+            "entries": 3, 
+            "project": "VIM2"
+        }, 
+        {
+            "date": "21-JUN-10", 
+            "entries": 62, 
+            "project": "Wee1"
+        }, 
+        {
+            "date": "30-MAY-13", 
+            "entries": 4, 
+            "project": "ZAP70"
+        }, 
+        {
+            "date": "15-MAY-10", 
+            "entries": 1, 
+            "project": "hMIF"
+        }, 
+        {
+            "date": "29-JAN-15", 
+            "entries": 1, 
+            "project": "hRHO"
+        }, 
+        {
+            "date": "18-FEB-10", 
+            "entries": 1, 
+            "project": "miscComplexes"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 74, 
+            "project": "p38a"
+        }, 
+        {
+            "date": "08-DEC-09", 
+            "entries": 3, 
+            "project": "p38b"
+        }, 
+        {
+            "date": "04-DEC-12", 
+            "entries": 2, 
+            "project": "pTEFb-TAT"
+        }, 
+        {
+            "date": "26-SEP-12", 
+            "entries": 9, 
+            "project": "sAC"
+        }, 
+        {
+            "date": "30-MAR-10", 
+            "entries": 1, 
+            "project": "spsB"
+        }, 
+        {
+            "date": "27-MAR-14", 
+            "entries": 1, 
+            "project": "tarA"
+        }
+    ]
+}
